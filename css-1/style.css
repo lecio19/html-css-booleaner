@@ -9,11 +9,12 @@ header {
     width: 692.67px;
     height: 150px;
 }
-
+h3 strong{
+    color: blue;
+}
 thead {
     background-color: cornflowerblue;
-    color: azure;
-       
+    color: azure;   
 }
 
 .first {
