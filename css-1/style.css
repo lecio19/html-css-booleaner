@@ -3,12 +3,38 @@ header {
     background-image: url(./img/pattern.png);
     background-repeat: no-repeat;
     margin: 0px;
-    font-size: 140%;
+    
     font-weight: normal;
     line-height: 260px;
-    width: 692.67px;
+
     height: 150px;
 }
+
+.logo-img {
+    padding: 50px 0;
+}
+
+figure{
+    margin: 0cm;
+}
+
+ul{
+    padding-left: 0.5cm;
+}
+
+th{
+    width: 25%;
+}
+
+th{
+    width: 25%;
+}
+
+th{
+    width: 50%;
+}
+
+
 h3 strong{
     color: blue;
 }
